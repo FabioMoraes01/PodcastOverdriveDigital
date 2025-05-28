@@ -1,3 +1,4 @@
+![Capa](https://github.com/user-attachments/assets/089b347e-9aa1-44af-9f71-108e1e299454)
 # PodcastOverdriveDigital
 Projeto de Podcast utilizando ferramentas de inteligência artificial e Engenharia de Prompt
 
