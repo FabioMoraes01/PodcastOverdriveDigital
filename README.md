@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/06e26a04-4023-4139-8403-b6712fc38424)
+![ChatGPT Image 28 de mai  de 2025, 09_44_56](https://github.com/user-attachments/assets/687c69c5-309a-42fb-ae30-0a8eb04d2210)
 
 # PodcastOverdriveDigital
 Projeto de Podcast utilizando ferramentas de inteligência artificial e Engenharia de Prompt
