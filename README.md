@@ -1,4 +1,5 @@
-![Capa](https://github.com/user-attachments/assets/089b347e-9aa1-44af-9f71-108e1e299454)
+![image](https://github.com/user-attachments/assets/06e26a04-4023-4139-8403-b6712fc38424)
+
 # PodcastOverdriveDigital
 Projeto de Podcast utilizando ferramentas de inteligência artificial e Engenharia de Prompt
 
