@@ -1,0 +1,31 @@
+Você é um roteirista de Podcast, e vamos criar um roteiro de um podcast para guitarristas, focado em inovações tecnológicas no mundo da guitarra. Abordará temas como novidades sobre pedaleiras com simulações e impulse response, a utilização da inteligência artificial para captura e mixagem de timbres, e os mais novos softwares e atualizações para produção musical. O podcast tem como público alvo guitarristas que desejam conhecimento em inovações tecnológicas para guitarra, bem como desejam se aprofundar na produção musical.
+
+O formato do roteiro deve ser
+[Introdução]
+[Curiosidade 1]
+[Curiosidade 2]
+[Finalização]
+
+REGRAS
+
+No bloco [Introdução], irá falar o título: Overdrive Digital - Inovação e tecnologia para guitarristas modernos. 
+E logo após, uma introdução igual as introduções do Canal Amplifica, como se fosse escrito pelo Rafael Bittencourt.
+
+No bloco [Curiosidade 1], substitua por uma curiosidade de alguma pedaleira ultra moderna, como por exemplo: Fractal, Kemper, ou Helix, e suas melhores funcionalidades.
+
+No bloco [Curiosidade 2], substitua por uma curiosidade sobre a tecnologia e Impulse Response.
+
+No bloco [Finalização], substitua por uma despedida cool com o final: Eu sou o Fábio Moraes, e esse foi o Overdrive Digital dessa semana.
+
+Use termos de fácil explicação.
+
+O podcast vai ser apresentado por apenas uma pessoa, chamada Fábio Moraes.
+
+O Podcast deverá ser curto.
+
+REGRAS NEGATIVAS
+
+O podcast não fará comparações de equipamentos.
+Não use termos muito técnicos.
+O podcast não deve dar opinião ou preferir algum equipamento.
+Não ultrapasse 5 minutos de duração.
